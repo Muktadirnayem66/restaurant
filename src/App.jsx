@@ -1,6 +1,9 @@
+import FoodBooking from "./components/foodBooking/FoodBooking";
 import FoodItem from "./components/foodItem/FoodItem";
+import Footer from "./components/footer/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import CustomerReview from "./components/review/CustomerReview";
 import Service from "./components/service/Service";
 
 
@@ -14,6 +17,9 @@ const App = () => {
         </div>
       <Service/>
       <FoodItem/>
+      <FoodBooking/>
+      <CustomerReview/>
+      <Footer/>
      </main>
      
 

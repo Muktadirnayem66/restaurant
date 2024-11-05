@@ -21,7 +21,9 @@ export default {
       },
       backgroundImage:{
         "shapeImage":"url('./src/assets/rectangle.svg')",
-         'red-gradient': 'linear-gradient(90deg, rgba(189, 31, 23, 0) 32.88%, rgba(189, 31, 23, 0.7) 100%)'
+         'red-gradient': 'linear-gradient(90deg, rgba(189, 31, 23, 0) 32.88%, rgba(189, 31, 23, 0.7) 100%)',
+         "formImage":"url('./src/assets/formImage.jpeg')",
+         "footerImage":"url('./src/assets/footerImage.jpg')"
         
       },
     

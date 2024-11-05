@@ -48,7 +48,7 @@ const Service = () => {
         </div>
         
         {/* side image */}
-        <div className=" hidden sm:block absolute sm:ml-[1250px] sm:mt-[230px]">
+        <div className=" hidden sm:block absolute sm:ml-[1300px] sm:mr-[-18px] sm:mt-[230px]">
             <img src={SideImage} className="w-[363px] h-[340px]" alt="side_image1" />
         </div>
       </div>
