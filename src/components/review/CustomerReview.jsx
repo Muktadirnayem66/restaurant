@@ -6,7 +6,7 @@ import VideoImage from "../../assets/Video.png";
 import QuteImage from "../../assets/qute.svg";
 import UserImage from "../../assets/user.png";
 import sideStar from "../../assets/star.svg";
-import leafImage from '/assets/leaf.png'
+
 
 
 const CustomerReview = () => {
@@ -16,7 +16,7 @@ const CustomerReview = () => {
         <img src={SideImage1} alt="side_image" />
       </div>
       <div className="hidden sm:block sm:ml-[1220px] sm:mr-[-20px]  sm:mt-[200px] z-0 absolute ">
-              <img src={leafImage} alt="leaf_image" />
+              <img src={"/assets/leaf.png"} alt="leaf_image" />
             </div>
 
       <div className="w-[330px] h-[468px] mx-auto py-[16px] sm:w-[1320px] sm:h-[110px]">

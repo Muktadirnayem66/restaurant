@@ -4,7 +4,7 @@ import BuyImage from "../../assets/buy.png";
 import PromotionImage from "../../assets/promotion-image.png";
 import Button from "../UI/Button";
 import CallIcon from "../../assets/call-icon.png";
-import SideImage from '/assets/sideImage-1.png'
+
 
 const Service = () => {
   return (
@@ -48,8 +48,8 @@ const Service = () => {
         </div>
         
         {/* side image */}
-        <div className=" hidden sm:block absolute sm:ml-[1300px] sm:mr-[-18px] sm:mt-[230px]">
-            <img src={SideImage} className="w-[363px] h-[340px]" alt="side_image1" />
+        <div className=" hidden sm:block z-50 absolute sm:ml-[1300px] sm:mr-[-18px] sm:mt-[230px]">
+            <img src={'/assets/sideImage-1.png'} className="w-[363px] h-[340px]" alt="side_image1" />
         </div>
       </div>
 
