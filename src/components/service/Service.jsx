@@ -4,7 +4,7 @@ import BuyImage from "../../assets/buy.png";
 import PromotionImage from "../../assets/promotion-image.png";
 import Button from "../UI/Button";
 import CallIcon from "../../assets/call-icon.png";
-import SideImage from '../../assets/sideImage-1.png'
+import SideImage from '/assets/sideImage-1.png'
 
 const Service = () => {
   return (

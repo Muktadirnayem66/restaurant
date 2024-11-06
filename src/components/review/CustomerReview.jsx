@@ -6,7 +6,7 @@ import VideoImage from "../../assets/Video.png";
 import QuteImage from "../../assets/qute.svg";
 import UserImage from "../../assets/user.png";
 import sideStar from "../../assets/star.svg";
-import leafImage from '../../assets/leaf.png'
+import leafImage from '/assets/leaf.png'
 
 
 const CustomerReview = () => {
