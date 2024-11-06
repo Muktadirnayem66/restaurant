@@ -44,13 +44,13 @@ const FoodItem = () => {
     const extendedFoodItems = [...foodItems, ...foodItems];
 
     // Autoplay effect
-    // useEffect(() => {
-    //     const interval = setInterval(() => {
-    //         setCurrentIndex((prevIndex) => (prevIndex + 1) % extendedFoodItems.length);
-    //     }, 3000); // Slide every 3 seconds
+    useEffect(() => {
+        const interval = setInterval(() => {
+            setCurrentIndex((prevIndex) => (prevIndex + 1) % extendedFoodItems.length);
+        }, 3000); // Slide every 3 seconds
 
-    //     return () => clearInterval(interval);
-    // }, []);
+        return () => clearInterval(interval);
+    }, []);
 
     // Reset the index when it reaches the end of the loop
     useEffect(() => {

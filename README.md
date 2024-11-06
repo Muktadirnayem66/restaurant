@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Live URL]() 
+- [Github Repo](https://github.com/Muktadirnayem66/restaurant) 
+
+
+resturant Project Overview - 
+- it is only fronend design 
+- use React, and Tawilwind CSS
+- also use react prototypes for props validation
+- food item section infinity loop food item changes duplicate items.

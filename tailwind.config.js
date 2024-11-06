@@ -14,7 +14,8 @@ export default {
         sans: ['Inter', 'sans-serif'],
         'bebas': ['Bebas Neue', 'cursive'],
         'outfit': ['Outfit', 'sans-serif'],
-        'roboto':['Roboto','sans-serif']
+        'roboto':['Roboto','sans-serif'],
+        'montserrat':['Montserrat','sans-serif' ]
       },
       colors:{
         buttons: "#FEBF00"

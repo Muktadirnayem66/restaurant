@@ -31,7 +31,7 @@ const links = [
 
 const Header = () => {
   return (
-    <nav className=" static flex justify-between items-center text-center sm:w-[1373px] mx-auto sm:h-[108px] py-[24px] px-[10px]">
+    <nav className="sticky top-0 z-50 flex justify-between items-center text-center sm:w-[1373px] mx-auto sm:h-[108px] py-[24px] px-[10px]">
       <div className=" flex gap-[60px]">
         <div className=" hidden sm:block">
           <img src={Logo} alt="Header_logo" className="w-[201px] h-[37px]" />
