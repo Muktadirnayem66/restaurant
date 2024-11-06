@@ -2,7 +2,7 @@
 
 
 
-- [Live URL]() 
+- [Live URL](https://restaurant-chi-seven.vercel.app/) 
 - [Github Repo](https://github.com/Muktadirnayem66/restaurant) 
 
 
